@@ -3695,8 +3695,29 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "HITsz-TMG/KnowAct": {
+      "first_scan": "2026-08-22 03:09:05",
+      "last_scan": "2026-08-22 03:09:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "aliaftabsheikh/SMIT-batch04-weekdays-agentic-ai": {
+      "first_scan": "2026-08-22 03:09:05",
+      "last_scan": "2026-08-22 03:09:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "marwahsparsh24/404_JOB_Not_Found": {
+      "first_scan": "2026-08-22 03:09:05",
+      "last_scan": "2026-08-22 03:09:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 528,
-  "last_updated": "2026-08-21 03:41:01"
+  "total_scanned": 531,
+  "last_updated": "2026-08-22 03:09:05"
 }
