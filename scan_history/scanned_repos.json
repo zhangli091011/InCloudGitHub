@@ -3723,8 +3723,22 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "asadullah48/asadullahshafique_devunity": {
+      "first_scan": "2026-08-24 03:02:19",
+      "last_scan": "2026-08-24 03:02:19",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "ukie27/NucleaMind": {
+      "first_scan": "2026-08-24 03:09:45",
+      "last_scan": "2026-08-24 03:09:45",
+      "findings_count": 1,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 532,
-  "last_updated": "2026-08-23 02:58:54"
+  "total_scanned": 534,
+  "last_updated": "2026-08-24 03:09:45"
 }
