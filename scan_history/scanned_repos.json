@@ -4906,8 +4906,29 @@
       "findings_count": 4,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "anknpolley123/SubuGPT": {
+      "first_scan": "2026-09-04 06:45:06",
+      "last_scan": "2026-09-04 06:45:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "fakebizprez/gitrec": {
+      "first_scan": "2026-09-04 06:46:31",
+      "last_scan": "2026-09-04 06:46:31",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "AbhijithMR-403/luke_radio_stream_backend": {
+      "first_scan": "2026-09-04 06:51:05",
+      "last_scan": "2026-09-04 06:51:05",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 701,
-  "last_updated": "2026-09-03 06:50:14"
+  "total_scanned": 704,
+  "last_updated": "2026-09-04 06:51:05"
 }
