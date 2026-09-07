@@ -4969,8 +4969,36 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "urosstojkic/openinsure": {
+      "first_scan": "2026-09-07 07:14:31",
+      "last_scan": "2026-09-07 07:14:31",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "gptme/gptme-contrib": {
+      "first_scan": "2026-09-07 07:16:46",
+      "last_scan": "2026-09-07 07:16:46",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "s4ngg/portfolio-agent": {
+      "first_scan": "2026-09-07 07:16:46",
+      "last_scan": "2026-09-07 07:16:46",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "MindGoblinStudios/grim-tome": {
+      "first_scan": "2026-09-07 07:16:47",
+      "last_scan": "2026-09-07 07:16:47",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 710,
-  "last_updated": "2026-09-06 06:52:00"
+  "total_scanned": 714,
+  "last_updated": "2026-09-07 07:16:47"
 }
