@@ -5144,8 +5144,29 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "powerset-co/powerpacks": {
+      "first_scan": "2026-09-29 08:12:29",
+      "last_scan": "2026-09-29 08:12:29",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "protoLabsAI/protoAgent": {
+      "first_scan": "2026-09-29 08:12:29",
+      "last_scan": "2026-09-29 08:12:29",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "Sanjulauni/Innovatech-AI-Assisstant": {
+      "first_scan": "2026-09-29 08:12:30",
+      "last_scan": "2026-09-29 08:12:30",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 735,
-  "last_updated": "2026-09-28 07:59:00"
+  "total_scanned": 738,
+  "last_updated": "2026-09-29 08:12:30"
 }
