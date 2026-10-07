@@ -5242,8 +5242,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "devkaransingh1/miniproject-neuron": {
+      "first_scan": "2026-10-07 08:51:24",
+      "last_scan": "2026-10-07 08:51:24",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 749,
-  "last_updated": "2026-10-05 07:55:46"
+  "total_scanned": 750,
+  "last_updated": "2026-10-07 08:51:24"
 }
