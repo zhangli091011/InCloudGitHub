@@ -5249,8 +5249,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "codebyArya-bit/AI-Resume-Screening-Kasparro-Assignment-": {
+      "first_scan": "2026-10-08 08:10:56",
+      "last_scan": "2026-10-08 08:10:56",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 750,
-  "last_updated": "2026-10-07 08:51:24"
+  "total_scanned": 751,
+  "last_updated": "2026-10-08 08:10:56"
 }
